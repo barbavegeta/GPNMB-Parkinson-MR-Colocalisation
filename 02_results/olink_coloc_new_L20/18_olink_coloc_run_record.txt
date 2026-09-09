@@ -1,0 +1,105 @@
+GPNMB UKB-PPP Olink -> PD colocalisation run
+Date: 2026-09-02 15:42:51.830498 
+Input: ./02_results/latest_olink/gpnmb_ukbppp_ieu_b_7_harmonised_region_overlap.csv 
+Exposure N: 32743 
+PD full N: 482730  cases: 33674  controls: 449056 
+LD reference prefix: C:/Users/barba/OneDrive/ATU/Project/FINAL_GPNMB_PQTL_PROJECT_TIDIED/FINAL/DISSERTATION TO UPLOAD/1000G_EUR 
+PLINK: C:/Users/barba/AppData/Local/R/win-library/4.5/genetics.binaRies/bin/plink.exe 
+Main priors: p1=1e-04 p2=1e-04 p12=1e-05
+Alignment exposure: 0.7399696 
+Alignment outcome: 0.7694606 
+SuSiE L: 20 
+
+ABF main summary:
+       nsnps    PP.H0.abf    PP.H1.abf    PP.H2.abf    PP.H3.abf    PP.H4.abf 
+4.018000e+03 0.000000e+00 1.838548e-04 0.000000e+00 9.998043e-01 1.180373e-05 
+
+SuSiE coloc main summary:
+    nsnps       hit1      hit2     PP.H0.abf    PP.H1.abf     PP.H2.abf
+    <int>     <char>    <char>         <num>        <num>         <num>
+ 1:   335 rs75801644 rs1624451  0.000000e+00 9.319378e-04  0.000000e+00
+ 2:   335   rs199347 rs1624451 1.756618e-200 9.967126e-06 1.883072e-197
+ 3:   335  rs2170681 rs1624451  1.767094e-18 9.318479e-04  1.894303e-15
+ 4:   335   rs199354 rs1624451 4.460174e-199 9.319336e-04 4.781250e-196
+ 5:   335   rs274053 rs1624451  2.585864e-48 9.319489e-04  2.772013e-45
+ 6:   335 rs73281643 rs1624451  2.645221e-19 9.319454e-04  2.835643e-16
+ 7:   335  rs4722266 rs1624451  2.546871e-18 9.319580e-04  2.730213e-15
+ 8:   335  rs6961109 rs1624451 1.993400e-136 5.375910e-04 2.136899e-133
+ 9:   335 rs76983703 rs1624451  1.340515e-83 9.133943e-04  1.437015e-80
+10:   335 rs10229956 rs1624451 1.261117e-105 1.061875e-04 1.351901e-102
+11:   335  rs6953996 rs1624451  1.066700e-62 3.894934e-04  1.143488e-59
+12:   335   rs227951 rs1624451  1.106667e-49 9.319613e-04  1.186333e-46
+13:   335 rs12176610 rs1624451  8.518627e-57 9.319565e-04  9.131860e-54
+14:   335  rs6461718 rs1624451  6.835117e-36 9.319618e-04  7.327158e-33
+15:   335 rs17147930 rs1624451  6.887694e-09 9.319176e-04  7.383520e-06
+16:   335  rs1728327 rs1624451  1.236862e-71 9.316102e-04  1.325900e-68
+17:   335  rs1728327 rs1624451 2.637698e-107 9.316115e-04 2.827579e-104
+18:   335   rs706013 rs1624451  1.263837e-38 9.318636e-04  1.354817e-35
+19:   335 rs41273990 rs1624451  2.741080e-42 9.319581e-04  2.938403e-39
+      PP.H3.abf    PP.H4.abf  idx1  idx2
+          <num>        <num> <int> <int>
+ 1: 0.999025361 4.270079e-05     1     1
+ 2: 0.009694336 9.902957e-01     2     1
+ 3: 0.998928914 1.392377e-04     3     1
+ 4: 0.999020908 4.715789e-05     4     1
+ 5: 0.999037352 3.069931e-05     5     1
+ 6: 0.999033505 3.454993e-05     6     1
+ 7: 0.999047031 2.101117e-05     7     1
+ 8: 0.575867068 4.235953e-01     8     1
+ 9: 0.979127122 1.995948e-02     9     1
+10: 0.112944655 8.869492e-01    10     1
+11: 0.416949321 5.826612e-01    11     1
+12: 0.999050588 1.745067e-05    12     1
+13: 0.999045469 2.257456e-05    13     1
+14: 0.999051140 1.689862e-05    14     1
+15: 0.999003762 5.693005e-05    15     1
+16: 0.998673864 3.945255e-04    16     1
+17: 0.998675234 3.931542e-04    18     1
+18: 0.998945751 1.223853e-04    19     1
+19: 0.999047183 2.085861e-05    20     1
+
+Session info:
+R version 4.5.1 (2025-06-13 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.utf8 
+[2] LC_CTYPE=English_United Kingdom.utf8   
+[3] LC_MONETARY=English_United Kingdom.utf8
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.utf8    
+
+time zone: Europe/Berlin
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] TwoSampleMR_0.7.4   ieugwasr_1.1.0.9000 susieR_0.14.2      
+ [4] coloc_5.2.3         purrr_1.2.2         tidyr_1.3.2        
+ [7] tibble_3.3.1        stringr_1.6.0       dplyr_1.2.1        
+[10] readr_2.2.0        
+
+loaded via a namespace (and not attached):
+ [1] viridis_0.6.5           utf8_1.2.6              generics_0.1.4         
+ [4] stringi_1.8.7           lattice_0.22-9          hms_1.1.4              
+ [7] magrittr_2.0.4          grid_4.5.1              RColorBrewer_1.1-3     
+[10] plyr_1.8.9              jsonlite_2.0.0          Matrix_1.7-5           
+[13] processx_3.9.0          pkgbuild_1.4.8          genetics.binaRies_0.1.2
+[16] reshape_0.8.10          mixsqp_0.3-54           gridExtra_2.3          
+[19] viridisLite_0.4.3       scales_1.4.0            cli_3.6.5              
+[22] rlang_1.2.0             crayon_1.5.3            bit64_4.8.0            
+[25] remotes_2.5.0           withr_3.0.2             tools_4.5.1            
+[28] parallel_4.5.1          tzdb_0.5.0              ggplot2_4.0.3          
+[31] curl_7.1.0              vctrs_0.7.3             R6_2.6.1               
+[34] matrixStats_1.5.0       lifecycle_1.0.5         bit_4.6.0              
+[37] vroom_1.7.1             irlba_2.3.7             callr_3.7.6            
+[40] desc_1.4.3              pkgconfig_2.0.3         pillar_1.11.1          
+[43] gtable_0.3.6            data.table_1.18.2.1     glue_1.8.0             
+[46] Rcpp_1.1.1-1.1          tidyselect_1.2.1        farver_2.1.2           
+[49] compiler_4.5.1          S7_0.2.1               

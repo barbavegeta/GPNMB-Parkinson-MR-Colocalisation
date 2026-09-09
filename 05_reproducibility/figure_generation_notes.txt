@@ -1,0 +1,100 @@
+GPNMB DISSERTATION FIGURE GENERATION NOTES
+==========================================
+-------
+Purpose
+-------
+This note documents how Figures 1a-5 were prepared. The statistical analyses and the reproduction of Figures 2-5 were performed in R using the workflows supplied in 01_scripts/. Figures 2-5 were generated from the final saved analytical outputs using base R graphics.
+
+-------------------------------------
+Figures 1a and 1b - workflow diagrams
+-------------------------------------
+Software: diagrams.net (draw.io)
+
+These are schematic diagrams, not statistical plots. They were assembled
+manually in diagrams.net from the analysis workflow and the final retained
+counts. The numbers shown in the boxes (for example 28 -> 26 -> 17 in the
+Open Targets mapping audit; 4,338 harmonised records -> 790 QC-filtered
+records -> 5 strict / 12 standard instruments; 165 -> 150 -> 146 in the
+colocalisation workflow) come from the supplied analysis outputs and QC
+records.
+
+No statistical calculation was performed in diagrams.net. The application was
+used only to arrange boxes, arrows and explanatory labels.
+
+---------------------------------------------------------------
+Figure 2 - GPNMB RNA expression across brain and neural tissues
+---------------------------------------------------------------
+Plotting software: R using base graphics.
+
+Data source:
+Human Protein Atlas consensus RNA expression values summarised in Appendix I
+(Tables I2a-I2c) of the dissertation. The figure selects the 15 rows classified
+as central nervous system / neural tissue and plots consensus nTPM as a
+horizontal bar chart.
+
+The plotting script records the exact 15 values used:
+choroid plexus 146.4; white matter 109.6; spinal cord 49.4; pons 35.8;
+thalamus 34.6; medulla oblongata 32.2; amygdala 29.4; cerebral cortex 24.4;
+basal ganglia 16.5; midbrain 14.5; hippocampal formation 14.3;
+pituitary gland 12.7; hypothalamus 8.9; cerebellum 3.2; retina 2.6 nTPM.
+
+----------------------------------------------
+Figure 3 - Mendelian randomisation forest plot
+----------------------------------------------
+Plotting software: R using base graphics.
+
+The plot does not recalculate the MR analyses. It reads the final reported
+estimates and confidence intervals from:
+- 02_results/current_results/somascan/somascan_gpnmb_pd_odds_ratios.csv
+- 02_results/latest_olink/gpnmb_corrected_mr_outputs/
+  01_lead_variant_wald_mr.csv
+- 02_results/latest_olink/gpnmb_ld_clumped_mr_outputs/
+  04_all_ld_clumped_mr_results.csv
+- 02_results/latest_olink/gpnmb_ld_clumped_mr_outputs/
+  05_multiplicative_random_effects_ivw_results.csv
+
+Points are odds ratios. Horizontal bars are 95% confidence intervals. The
+vertical line at OR=1 is the null. The multiplicative random-effects analyses
+have the same IVW point estimate as the corresponding fixed-effect analyses
+but wider confidence intervals because the standard errors are inflated for
+observed heterogeneity.
+
+----------------------------------------
+Figure 4 - Regional association patterns
+----------------------------------------
+Plotting software: Python, pandas, numpy and matplotlib.
+
+Input files:
+- 02_results/current_results/regional_inputs/
+  gpnmb_pqtl_region_summary_peer_review.csv
+- 02_results/current_results/regional_inputs/
+  pd_gwas_gpnmb_region_summary_peer_review.csv
+
+For each dataset:
+  x = chromosome 7 position / 1,000,000 (Mb)
+  y = -log10(p)
+
+The script highlights the same selected SNP labels used in the dissertation
+figure. The plot is descriptive: the p-values themselves are read from the
+saved regional summary-statistic files.
+
+-------------------------------------------
+Figure 5 - colocalisation prior sensitivity
+-------------------------------------------
+Plotting software: R using base graphics.
+
+Input:
+- 02_results/current_results/gpnmb_coloc_prior_sensitivity.csv
+
+The seven p12 values are plotted on a logarithmic x-axis. PP.H3 represents
+support for two distinct causal signals and PP.H4 represents support for a
+shared causal signal. The posterior probabilities are outputs from the coloc analysis; the figure plots the saved prior-sensitivity results without recalculating the colocalisation analysis.
+
+-----
+Files
+-----
+01_scripts/generate_figures.R
+    Reproduces Figures 2-5 from the final package files / values.
+
+Figures 1a and 1b do not require code because they were manually assembled in
+diagrams.net.

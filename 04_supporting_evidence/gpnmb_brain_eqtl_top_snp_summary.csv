@@ -1,0 +1,25 @@
+snp,n_brain_datasets_top10,max_snp_pp_h4,datasets
+rs858273,7,0.3275321438699497,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_brain_putamen; GTEx_substantia_nigra
+rs858240,7,0.22695150336280892,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_brain_putamen; GTEx_substantia_nigra
+rs858239,7,0.11892207387287326,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_brain_putamen; GTEx_substantia_nigra
+rs858274,6,0.27253022509039393,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_substantia_nigra
+rs199347,6,0.23141468024899237,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_substantia_nigra
+rs858271,6,0.1454281626896402,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC; GTEx_substantia_nigra
+rs199351,5,0.1535000137763711,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate; GTEx_brain_cortex; GTEx_substantia_nigra
+rs156407,3,0.3765087614893981,BrainSeq_DLPFC; GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC
+rs858272,3,0.12447282860558943,BrainSeq_DLPFC; CommonMind_DLPFC; GTEx_brain_caudate
+rs4282457,2,0.3796755946314782,GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC
+rs1637193,2,0.1827486898343474,CommonMind_DLPFC; GTEx_brain_caudate
+rs156429,2,0.11166158507699513,GTEx_brain_cortex; GTEx_brain_frontal_cortex_DLPFC
+rs1637192,2,0.0327140426930325,GTEx_brain_caudate; GTEx_brain_putamen
+rs6461703,2,0.03149957806425863,BrainSeq_DLPFC; CommonMind_DLPFC
+rs199348,1,0.31801194470483696,GTEx_brain_putamen
+rs199355,1,0.31801194470483696,GTEx_brain_putamen
+rs858275,1,0.14422150903553269,GTEx_brain_putamen
+rs274058,1,0.0615769162844445,GTEx_substantia_nigra
+rs199357,1,0.0569010640143798,GTEx_brain_putamen
+rs433395,1,0.05432301573209781,GTEx_substantia_nigra
+rs1618339,1,0.03657956709750944,GTEx_substantia_nigra
+rs1728313,1,0.01975002214485011,GTEx_brain_putamen
+rs1637190,1,0.01463211984884643,GTEx_brain_putamen
+rs466225,1,0.0128002286425536,GTEx_brain_frontal_cortex_DLPFC

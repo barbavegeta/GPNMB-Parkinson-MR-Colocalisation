@@ -1,0 +1,49 @@
+Variation ID	Location	Distance from rs5850	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs5850	7:23274928-23274928	0	3_prime_UTR_variant	undefined	undefined	Transmembrane glycoprotein NMB levels;	Other measurement	Ensembl
+rs156425	7:23269500-23269500	-5428	intron_variant	0.976271	1.000000		No trait reported	Ensembl
+rs28635122	7:23270562-23270562	-4366	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs199659	7:23290583-23290583	15655	intergenic_variant	0.086357	0.999952		No trait reported	Ensembl
+rs17729322	7:23298940-23298940	24012	regulatory_region_variant	0.052277	0.999999		No trait reported	Ensembl
+rs149821	7:23299841-23299841	24913	intron_variant	0.687614	0.942675		No trait reported	Ensembl
+rs7794684	7:23271186-23271186	-3742	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs199657	7:23297888-23297888	22960	intergenic_variant	0.777837	0.946750		No trait reported	Ensembl
+rs166663	7:23277123-23277123	2195	intergenic_variant	0.976271	1.000000		No trait reported	Ensembl
+rs2268747	7:23273843-23273843	-1085	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs460031	7:23295689-23295689	20761	intergenic_variant	0.346916	0.999989		No trait reported	Ensembl
+rs2268745	7:23277981-23277981	3053	TF_binding_site_variant	1.000000	1.000000		No trait reported	Ensembl
+rs156429	7:23266401-23266401	-8527	intron_variant	0.976271	1.000000		No trait reported	Ensembl
+rs77253147	7:23274443-23274443	-485	3_prime_UTR_variant	0.293585	0.999990		No trait reported	Ensembl
+rs466225	7:23292784-23292784	17856	intergenic_variant	0.930937	0.999999		No trait reported	Ensembl
+rs466240	7:23299155-23299155	24227	regulatory_region_variant	0.758691	0.945913		No trait reported	Ensembl
+rs886791	7:23290728-23290728	15800	intergenic_variant	0.320378	0.949976		No trait reported	Ensembl
+rs35686290	7:23279050-23279050	4122	intergenic_variant	0.078433	0.999847		No trait reported	Ensembl
+rs199348	7:23253479-23253479	-21449	intron_variant	0.836172	0.925471		No trait reported	Ensembl
+rs1728320	7:23280170-23280170	5242	intergenic_variant	0.976271	1.000000		No trait reported	Ensembl
+rs858273	7:23255281-23255281	-19647	intron_variant	0.836172	0.925471		No trait reported	Ensembl
+rs156421	7:23272868-23272868	-2060	intron_variant	0.976271	1.000000		No trait reported	Ensembl
+rs2268744	7:23292661-23292661	17733	intergenic_variant	0.928900	0.975437		No trait reported	Ensembl
+rs858274	7:23255049-23255049	-19879	intron_variant	0.836172	0.925471		No trait reported	Ensembl
+rs199656	7:23297996-23297996	23068	intergenic_variant	0.777837	0.946750		No trait reported	Ensembl
+rs112399978	7:23263869-23263874	-11059	intron_variant	0.952129	0.975771		No trait reported	Ensembl
+rs4282457	7:23282797-23282797	7869	intergenic_variant	0.976271	1.000000		No trait reported	Ensembl
+rs2307783	7:23268016-23268024	-6912	intron_variant	0.952123	0.975768		No trait reported	Ensembl
+rs10085838	7:23258796-23258796	-16132	intron_variant	0.882220	0.950612		No trait reported	Ensembl
+rs370083594	7:23278463-23278480	3535	intergenic_variant	0.457587	0.953941		No trait reported	Ensembl
+rs10224388	7:23276821-23276821	1893	intergenic_variant	1.000000	1.000000		No trait reported	Ensembl
+rs9639460	7:23254897-23254897	-20031	intron_variant	0.234751	0.841917		No trait reported	Ensembl
+rs156407	7:23276020-23276020	1092	intergenic_variant	0.976271	1.000000		No trait reported	Ensembl
+rs55633349	7:23277502-23277502	2574	regulatory_region_variant	0.293585	0.999990		No trait reported	Ensembl
+rs13225706	7:23278298-23278298	3370	intergenic_variant	0.152760	0.999931		No trait reported	Ensembl
+rs199359	7:23298895-23298895	23967	regulatory_region_variant	0.740058	0.945048		No trait reported	Ensembl
+rs74437133	7:23295173-23295173	20245	intergenic_variant	0.141811	0.999945		No trait reported	Ensembl
+rs11346000	7:23280499-23280507	5571	intergenic_variant	0.346916	0.999989		No trait reported	Ensembl
+rs148763352	7:23286419-23286422	11491	intergenic_variant	0.751668	0.970248		No trait reported	Ensembl
+rs34323745	7:23272449-23272449	-2479	intron_variant	0.152760	0.999931		No trait reported	Ensembl
+rs28458177	7:23255253-23255253	-19675	intron_variant	0.858438	0.926519	Blood protein levels	Inflammatory measurement	GWAS
+rs1881203	7:23253189-23253189	-21739	intron_variant	0.858438	0.926519	Serum levels of protein GPNMB;Transmembrane glycoprotein NMB levels	No mapped ontology trait	GWAS
+rs199351	7:23260430-23260430	-14498	intron_variant	0.906360	0.975089	Parkinson's disease;Parkinson's disease or first degree relation to individual with Parkinson's disease	Other trait	GWAS
+rs858275	7:23254525-23254525	-20403	intron_variant	0.836172	0.925471	Transmembrane glycoprotein NMB:Cytoplasmic domain levels;Transmembrane glycoprotein NMB:Extracellular domain analyte X5080.131 levels;Transmembrane glycoprotein NMB:Extracellular domain analyte X8240.207 levels;Transmembrane glycoprotein NMB:Extracellular domain analyte X8289.8 levels	No mapped ontology trait	GWAS
+rs10250602	7:23264082-23264082	-10846	intron_variant	0.976103	1.000000	Transmembrane glycoprotein NMB levels GPNMB.8606.39.3	No mapped ontology trait	GWAS
+rs199347	7:23254127-23254127	-20801	intron_variant	0.836172	0.925471	Parkinson's disease;Parkinson's disease	Other trait	GWAS
+rs10262243	7:23251368-23251368	-23560	intron_variant	0.858438	0.926519	Serum levels of protein GPNMB;Serum levels of protein GPNMB;Transmembrane glycoprotein NMB levels GPNMB.8606.39.3;Transmembrane glycoprotein NMB levels GPNMB.8606.39.3	No mapped ontology trait	GWAS
+rs199355	7:23256914-23256914	-18014	synonymous_variant	0.860155	0.949910	GPNMB-related disorder	No mapped ontology trait	Ensembl

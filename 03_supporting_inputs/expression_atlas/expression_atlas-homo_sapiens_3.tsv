@@ -1,0 +1,8 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/genes/gpnmb?bs=%7B%22homo%20sapiens%22%3A%5B%22CELL_TYPE%22%2C%22CLINICAL_HISTORY%22%2C%22DISEASE%22%2C%22DISEASE_STAGING%22%2C%22PHENOTYPE%22%2C%22SAMPLING_SITE%22%5D%7D#baseline
+# Timestamp: 2026-06-05T11:52:29.200Z
+# Query results for: [{"value":"gpnmb"}], in conditions [], in species Homo sapiens
+# Ordering: By experiment type
+	alcoholic liver disease	alcoholic liver disease, hepatitis B	alcoholic liver disease, non-alcoholic liver disease	hepatitis B	hepatitis C	hepatitis C, alcoholic liver disease	No liver disease	non-alcoholic liver disease	not available
+Human2024_DIA - Suter P et al. 2022 - tumor, hepatocellular carcinoma, no cirrhosis	126034	NA	137166	204824	48349	50222	25040	63261	NA
+Human2024_DIA - Suter P et al. 2022 - tumor, hepatocellular carcinoma, cirrhosis	59779	77320	63227	65233	42190	87751	NA	66972	NA
+Human2024_DIA - Suter P et al. 2022 - non-tumor, normal, no cirrhosis	NA	NA	NA	NA	NA	NA	NA	NA	30688

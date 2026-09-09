@@ -1,0 +1,13 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/genes/gpnmb?bs=%7B%22homo%20sapiens%22%3A%5B%22CELL_TYPE%22%2C%22CLINICAL_HISTORY%22%2C%22DISEASE%22%2C%22DISEASE_STAGING%22%2C%22PHENOTYPE%22%2C%22SAMPLING_SITE%22%5D%7D#baseline
+# Timestamp: 2026-06-05T13:11:20.362Z
+# Query results for: [{"value":"gpnmb"}], in conditions [], in species Homo sapiens
+# Ordering: By experiment type
+	C9ORF72-mediated genetic subtype of FTD	GRN-mediated genetic subtype of FTD	MAPT-mediated genetic subtype of FTD	non-demented control	REPLICATE
+Human2024_DIA - Miedema SSM et al. 2022 - middle temporal gyrus, frontotemporal dementia	97	108	93	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - middle temporal gyrus, Frontotemporal dementia	66	86	81	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - middle frontal gyrus, frontotemporal dementia	61	126	76	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - middle frontal gyrus, Frontotemporal dementia	55	88	33	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - not available, normal	NA	NA	NA	NA	16
+Human2024_DIA - Miedema SSM et al. 2022 - middle temporal gyrus, normal	NA	NA	NA	59	NA
+Human2024_DIA - Miedema SSM et al. 2022 - middle frontal gyrus, normal	NA	NA	NA	16	NA
+Human2024_DIA - Miedema SSM et al. 2022 - middle frontal gyrus, Normal	NA	NA	NA	30	NA

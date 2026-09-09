@@ -1,0 +1,24 @@
+SNP,chr,pos,beta.outcome,se.outcome,samplesize.outcome,pval.outcome,eaf.outcome,effect_allele.outcome,other_allele.outcome,outcome,id.outcome,originalname.outcome,outcome.deprecated,mr_keep.outcome,data_source.outcome
+rs553402465,7,22715361,0.7796,0.5751,8817,0.1753,0.0019,G,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs187529119,7,22895691,0.0108,0.2954,12517,0.9708,0.0037,C,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs1562696529,7,22931591,0.9292,1.188,1680,0.4342,0.0019,T,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs191709994,7,22958257,-0.225,0.2039,24234,0.2699,0.0048,A,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs188019604,7,22968860,-0.104,0.1447,25556,0.4723,0.0241,A,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs77175079,7,22972334,-0.0011,0.0505,468692,0.9828,0.0576,C,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs187317213,7,23264541,0.5735,1.4539,1680,0.6933,0.0015,C,T,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs140122424,7,23286529,-0.2839,0.2038,25028,0.1635,0.0032,T,C,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs1881203,7,23292808,-0.0923,0.0177,482730,1.985e-7,0.3738,C,T,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs17147995,7,23299648,-0.4588,0.3182,23190,0.1493,0.0034,G,C,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs111416687,7,23301102,-0.3319,0.1598,23713,0.0377903,0.0043,C,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs75801644,7,23306141,0.0751,0.054,482730,0.1643,0.0266,A,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs77652512,7,23332549,-0.3253,0.1666,23713,0.0508604,0.0039,A,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs79570193,7,23334004,-0.0535,0.098,471013,0.5851,0.0133,T,C,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs183705156,7,23373509,-0.5997,0.2914,22542,0.0396096,0.0026,G,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs182846976,7,23404717,-0.2428,0.0851,482730,0.00432305,0.0156,C,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs141210139,7,23432357,-0.1504,0.1449,25556,0.2991,0.0229,C,T,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs78840640,7,23434606,0.0489,0.0571,480593,0.3911,0.0286,G,C,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs12531722,7,23888631,0.0742,0.0468,482730,0.1131,0.0417,G,T,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs34691502,7,23933330,0.0299,0.023,482730,0.1934,0.2409,G,A,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs78591304,7,23947227,-0.2129,0.1532,24029,0.1647,0.0137,G,T,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs192489514,7,24074734,-0.4545,0.2455,9616,0.0641505,0.0055,C,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd
+rs554517895,7,24123571,-0.0897,0.4694,16422,0.8485,0.0015,T,G,Parkinson's disease || id:ieu-b-7,ieu-b-7,Parkinson's disease,Parkinson's disease ||  || ,TRUE,igd

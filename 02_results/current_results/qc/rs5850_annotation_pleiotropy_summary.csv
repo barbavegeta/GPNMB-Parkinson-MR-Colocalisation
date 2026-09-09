@@ -1,0 +1,6 @@
+item,result
+VEP consequence,"rs5850 is a 3_prime_UTR_variant in GPNMB at GRCh38 chr7:23274928 C/T; transcript consequences were modifier-level 3 prime UTR/downstream/NMD transcript annotations, not coding or canonical splice."
+GWAS Catalog / Open Targets association export,"The downloaded rs5850 association exports returned 1 association, mapped to transmembrane glycoprotein NMB measurement / GPNMB protein levels (p=8e-14); no non-GPNMB disease-trait association was present in these exports."
+GTEx eQTL,"rs5850 appeared in 191 GTEx eQTL rows; 32 were GPNMB eQTLs and 12 of those were in brain tissues. Strong GPNMB brain eQTLs included nucleus accumbens p=5.6e-26, caudate p=6.7e-23, putamen p=1.4e-21, frontal cortex p=1.3e-20 and substantia nigra p=6.1e-6."
+GTEx sQTL,"rs5850 appeared in 53 GTEx sQTL rows; 5 were GPNMB sQTL rows, while NUP42, KLHL7, KLHL7-DT and MALSU1 sQTL rows also occurred."
+Ensembl LD/overlap,"The Ensembl overlapping feature export placed rs5850 inside the GPNMB gene interval. The Ensembl proxy table included 28 variants with r2>=0.8; these were intronic, intergenic, TF-binding-site or regulatory-region annotations, with only the GPNMB protein measurement phenotype reported for rs5850."

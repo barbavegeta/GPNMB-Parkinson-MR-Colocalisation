@@ -1,0 +1,12 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/genes/gpnmb?bs=%7B%22homo%20sapiens%22%3A%5B%22CELL_TYPE%22%2C%22CLINICAL_HISTORY%22%2C%22DISEASE%22%2C%22DISEASE_STAGING%22%2C%22PHENOTYPE%22%2C%22SAMPLING_SITE%22%5D%7D#baseline
+# Timestamp: 2026-06-05T11:52:26.783Z
+# Query results for: [{"value":"gpnmb"}], in conditions [], in species Homo sapiens
+# Ordering: By experiment type
+	basal	her2	lumA	lumB	not available
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor positive, breast cancer, no-spiculation, estrogen receptor positive	NA	301104	127629	116575	NA
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor negative, breast cancer, no-spiculation, estrogen receptor negative	121286	148573	NA	NA	NA
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor positive, breast cancer, spiculation, estrogen receptor positive	NA	NA	150539	NA	NA
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor positive, breast cancer, no-spiculation, estrogen receptor negative	NA	NA	159182	NA	NA
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor negative, breast cancer, spiculation, estrogen receptor positive	NA	NA	NA	121369	NA
+Human2024_DIA - De Marchi T et al. 2021 - progesterone receptor negative, breast cancer, spiculation, estrogen receptor negative	NA	109699	NA	NA	NA
+Human2024_DIA - De Marchi T et al. 2021 - not available, Normal, not available, not available	NA	NA	NA	NA	168552

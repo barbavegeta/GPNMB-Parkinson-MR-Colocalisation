@@ -1,0 +1,7 @@
+id,trait,build,group_name,category,subcategory,population,sex,author,nsnp,year,ontology,unit,ncase,ncontrol,consortium,mr,priority,note,sample_size,pmid
+finn-b-G6_PARKINSON,Parkinson's disease,HG19/GRCh37,public,Binary,NA,European,Males and Females,NA,16380466,2021,NA,NA,2162,216630,NA,1,0,G6_PARKINSON,NA,NA
+finn-b-PDSTRICT,"Parkinson's disease, strict definition",HG19/GRCh37,public,Binary,NA,European,Males and Females,NA,16380461,2021,NA,NA,1843,216630,NA,1,0,PDSTRICT,NA,NA
+ebi-a-GCST90018894,Parkinson's disease,HG19/GRCh37,public,NA,NA,European,NA,Sakaue S,24194622,2021,NA,NA,2638,477380,NA,1,NA,,480018,34594039
+ebi-a-GCST90018674,Parkinson's disease,HG19/GRCh37,public,NA,NA,East Asian,NA,Sakaue S,12454181,2021,NA,NA,340,175788,NA,1,NA,,176128,34594039
+ieu-a-812,Parkinson's disease,HG19/GRCh37,public,Disease,Psychiatric / neurological,European,Males and Females,Simon-Sanchez J,453218,2009,NA,log odds,1713,3978,NA,1,2,Effect allele frequencies are missing,5691,19915575
+ieu-a-818,Parkinson's disease,HG19/GRCh37,public,Disease,Psychiatric / neurological,European,Males and Females,Pankratz,318553,2011,NA,log odds,816,856,NA,1,1,Familial Parkinson's disease; effect allele frequencies are missing,1672,21829596

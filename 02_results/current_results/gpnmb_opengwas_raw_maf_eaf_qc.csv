@@ -1,0 +1,3 @@
+dataset,raw_rows,columns,eaf_column,maf_column,eaf_nonmissing,maf_nonmissing
+GPNMB pQTL OpenGWAS raw,165,"id, trait, chr, position, rsid, ea, nea, eaf, beta, se, p, n",eaf,NA,0,0
+PD GWAS OpenGWAS raw,6558,"id, trait, chr, position, rsid, ea, nea, eaf, beta, se, p, n",eaf,NA,6558,0

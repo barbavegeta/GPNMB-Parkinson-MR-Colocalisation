@@ -1,0 +1,2 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"prot-c-5080_131_3","7",23314547,"rs5850","T","C",NA,-0.3369,0.0444694,8.14892e-14,996,"GPNMB || id:prot-c-5080_131_3",TRUE,"reported","igd"

@@ -1,0 +1,12 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/genes/gpnmb?bs=%7B%22homo%20sapiens%22%3A%5B%22CELL_TYPE%22%2C%22CLINICAL_HISTORY%22%2C%22DISEASE%22%2C%22DISEASE_STAGING%22%2C%22PHENOTYPE%22%2C%22SAMPLING_SITE%22%5D%7D#baseline
+# Timestamp: 2026-06-05T11:52:31.271Z
+# Query results for: [{"value":"gpnmb"}], in conditions [], in species Homo sapiens
+# Ordering: By experiment type
+	atopic eczema	dermatitis	follicular thyroid adenoma	follicular thyroid carcinoma	frontotemporal dementia	normal	papillary thyroid carcinoma	semantic dementia
+Human2024_DIA - SÃ¸lberg JBK et al. 2023 - palm	80267	42455	NA	NA	NA	89409	NA	NA
+Human2024_DIA - SÃ¸lberg JBK et al. 2023 - dorsum	371209	632489	NA	NA	NA	569051	NA	NA
+Human2024_DIA - SÃ¸lberg JBK et al. 2023 - arm	343138	434579	NA	NA	NA	NA	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - temporal cortex	NA	NA	NA	NA	83	49	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022 - frontal cortex	NA	NA	NA	NA	66	21	NA	NA
+Human2024_DIA - Miedema SSM et al. 2022	NA	NA	NA	NA	NA	63	NA	103
+Human2024_DIA - MartÃ­nez-Aguilar J et al. 2016	NA	NA	0	0	NA	82	305	NA

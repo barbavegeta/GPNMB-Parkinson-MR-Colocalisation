@@ -1,0 +1,2 @@
+analysis,p1,p2,p12,n_input,nsnps,PP_H0,PP_H1,PP_H2,PP_H3,PP_H4
+Olink coloc.abf on exact SuSiE SNP set,1e-4,1e-4,1e-5,335,335,0,0.0012967492762845881,0,0.9986199976675266,8.32530562332359e-5

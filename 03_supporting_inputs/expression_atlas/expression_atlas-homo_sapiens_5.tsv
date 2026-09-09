@@ -1,0 +1,9 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/genes/gpnmb?bs=%7B%22homo%20sapiens%22%3A%5B%22CELL_TYPE%22%2C%22CLINICAL_HISTORY%22%2C%22DISEASE%22%2C%22DISEASE_STAGING%22%2C%22PHENOTYPE%22%2C%22SAMPLING_SITE%22%5D%7D#baseline
+# Timestamp: 2026-06-05T11:52:36.100Z
+# Query results for: [{"value":"gpnmb"}], in conditions [], in species Homo sapiens
+# Ordering: By experiment type
+	lesional	low/reduced ejection fraction, high-gradient aortic valve stenosis	low/reduced ejection fraction, low-gradient aortic valve stenosis	Non-failing heart	non-lesional	normal	normal/preserved ejection fraction, high-gradient aortic valve stenosis	paradoxical low-flow, low-gradient aortic valve stenosis
+Human2024_DIA - Brandenburg S et al. 2022 - aortic valve stenosis	NA	0	69	NA	NA	NA	25	105
+Human2024_DIA - Koch M et al. 2022 - atopic dermatitis	273481	NA	NA	NA	350649	NA	NA	NA
+Human2024_DIA - Koch M et al. 2022 - normal	NA	NA	NA	NA	NA	813298	NA	NA
+Human2024_DIA - Brandenburg S et al. 2022 - normal	NA	NA	NA	41	NA	NA	NA	NA
