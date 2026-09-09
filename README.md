@@ -1,8 +1,6 @@
-GPNMB PARKINSON'S DISEASE DISSERTATION — SUPPLEMENTARY PACKAGE
-===============================================================
+# GPNMB PARKINSON'S DISEASE DISSERTATION — SUPPLEMENTARY PACKAGE
 
-Purpose
--------
+## Purpose
 This supplementary package accompanies the dissertation:
 
 "Prioritising GPNMB as a Parkinson's disease-relevant protein using
@@ -12,11 +10,9 @@ It contains the analysis scripts, derived results, selected supporting
 inputs and reproducibility records used to support the reported GPNMB
 Mendelian randomisation, colocalisation, SuSiE and cross-tissue analyses.
 
-PACKAGE STRUCTURE
-=================
+## PACKAGE STRUCTURE
 
-01_scripts/
------------
+### 01_scripts/
 Analysis and reproducibility scripts.
 
 Key files include:
@@ -52,8 +48,7 @@ Key files include:
   diagrams.net (draw.io).
 
 
-02_results/
------------
+### 02_results/
 Derived analytical results.
 
 02_results/current_results/
@@ -96,8 +91,7 @@ multi-instrument Olink analyses. The liberal specification is retained
 as sensitivity evidence only.
 
 
-03_supporting_inputs/
----------------------
+### 03_supporting_inputs/
 Selected source, annotation and molecular-QTL files used to support or
 audit the analyses.
 
@@ -132,8 +126,7 @@ Contents include:
   * olink_protein_map_3k_v1.tsv
 
 
-04_supporting_evidence/
------------------------
+### 04_supporting_evidence/
 Supporting cross-layer biological and molecular evidence.
 
 Files include:
@@ -148,8 +141,7 @@ Files include:
   Cross-layer eQTL/pQTL overlap summary.
 
 
-05_reproducibility/
--------------------
+### 05_reproducibility/
 Software-session, figure-generation and source-provenance records.
 
 Files include:
@@ -171,11 +163,9 @@ Files include:
   * gpnmb_processed_summary.txt
 
 
-ANALYTICAL FLOW
-===============
+## ANALYTICAL FLOW
 
-SomaScan MR
------------
+### SomaScan MR
 SomaScan GPNMB exposure -> Parkinson's disease outcome harmonisation ->
 single-instrument rs5850 Wald ratio.
 
@@ -184,8 +174,7 @@ supportive single-SNP evidence and cannot provide multi-instrument
 heterogeneity or horizontal-pleiotropy diagnostics.
 
 
-UKB-PPP Olink MR
-----------------
+### UKB-PPP Olink MR
 UKB-PPP chromosome 7 GPNMB marginal summary data + ieu-b-7 ->
 4,338 harmonised regional records -> QC and genome-wide significance ->
 790 QC-filtered records -> rsID deduplication before European-reference LD
@@ -199,8 +188,7 @@ random-effects results are non-significant and are used to temper the
 fixed-effect interpretation.
 
 
-Regional colocalisation
------------------------
+### Regional colocalisation
 Original SomaScan regional source: 165 variants in the analysed interval.
 
 After overlap/harmonisation:
@@ -212,8 +200,7 @@ prior, while prior-sensitivity and SuSiE results show that interpretation
 depends on prior assumptions and unresolved multi-signal locus structure.
 
 
-REPRODUCIBILITY NOTES
-=====================
+## REPRODUCIBILITY NOTES
 
 - The saved LD-clumped Olink instrument files are the final instrument
   sets used for the reported analyses.
@@ -242,8 +229,7 @@ REPRODUCIBILITY NOTES
   to document and support reproducibility of the reported analyses.
 
 
-MAIN RESULTS TO CROSS-CHECK
-===========================
+## MAIN RESULTS TO CROSS-CHECK
 
 Olink:
 - Regional harmonised records: 4,338
